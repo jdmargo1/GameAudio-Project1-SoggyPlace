@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3015324718	Play_Fire			\Default Work Unit\Play_Fire	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	358196171	Fire_LoopShort	E:\1. UCI Coursework\Game Audio Prep\1. Soundscape Project\TestBuilds\SoggyPlaceTest\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\Fire_LoopShort_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fire_LoopShort		5760064
+

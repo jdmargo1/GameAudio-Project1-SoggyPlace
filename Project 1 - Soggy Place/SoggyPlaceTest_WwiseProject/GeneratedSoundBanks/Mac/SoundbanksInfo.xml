@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>E:\1. UCI Coursework\Game Audio Prep\1. Soundscape Project\TestBuilds\SoggyPlaceTest\SoggyPlaceTest_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\1. UCI Coursework\Game Audio Prep\1. Soundscape Project\TestBuilds\SoggyPlaceTest\SoggyPlaceTest_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>E:\1. UCI Coursework\Game Audio Prep\1. Soundscape Project\TestBuilds\SoggyPlaceTest\SoggyPlaceTest_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\1. UCI Coursework\Game Audio Prep\1. Soundscape Project\TestBuilds\SoggyPlaceTest\SoggyPlaceTest_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="2485977980">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3015324718" Name="Play_Fire" ObjectPath="\Events\Default Work Unit\Play_Fire" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="358196171" Language="SFX">
+							<ShortName>Fire_LoopShort.wav</ShortName>
+							<Path>SFX\Fire_LoopShort_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

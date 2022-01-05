@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E35712A9-D40F-4754-8559-142EFB3E5C18}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{E35712A9-D40F-4754-8559-142EFB3E5C18}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Fire" ID="{08F4E355-9E9D-4CBC-AE0E-50723083560F}">
+					<ChildrenList>
+						<Action Name="" ID="{680D3FE2-EC29-452F-8FCE-1888909A1564}" ShortID="55471774">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Fire_LoopShort" ID="{A1F603FA-7D6B-4F34-97AB-E8708F8A17AC}" WorkUnitID="{CE0C3027-6394-46B8-8CB9-642B7A4DE80D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
